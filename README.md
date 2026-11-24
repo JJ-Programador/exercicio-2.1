@@ -1,10 +1,9 @@
 # Exercício 2.1 — Mapa de Atores da Jornada de um Serviço Público
 
-**Aluno(a):** [SEU NOME COMPLETO]
-**Disciplina:** IDP-TD 2026
-**Serviço analisado:** Atendimento ao Seguro-Desemprego pela URA da Caixa Econômica Federal
-
-**Assistentes usados:** ChatGPT (assistente 1 — pesquisa) · Claude.ai (assistente 2 — auditoria) · Claude Code (`/grill-me`)
+- **Aluno:** Jorge Gomes de Andrade Cruz Júnior
+- **Disciplina:** IDP-TD 2026
+- **Serviço analisado:** Atendimento ao Seguro-Desemprego pela URA (canal telefônico 0800 726 0207) da Caixa Econômica Federal, agente pagador do benefício gerido pelo Ministério do Trabalho e Emprego
+- **Assistentes usados:** ChatGPT (assistente 1 — pesquisa) · Claude.ai (assistente 2 — auditoria) · Claude Code (`/grill-me`)
 
 ## Índice
 
